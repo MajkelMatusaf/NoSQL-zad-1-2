@@ -1,0 +1,1 @@
+db.gaero.find({geometry: {$geoWithin: {$geometry: {type : "Polygon" ,coordinates: [ [ [ 6, 55 ], [ 15, 55 ], [ 15, 47 ], [ 6, 47 ],[ 6, 55 ] ] ]}}}})

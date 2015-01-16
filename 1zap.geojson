@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CITY_NAME": "KĂśnigsberg", "ADMIN_NAME": "Kaliningrad", "CNTRY_NAME": "Russia", "STATUS": "Provincial capital", "POP_RANK": 3, "POP_CLASS": "500,000 to 1,000,000", "PORT_ID": 28690 }, "geometry": { "type": "Point", "coordinates": [ 20.503000259399414, 54.708000183105469 ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "Vilnius", "ADMIN_NAME": "Lithuania", "CNTRY_NAME": "Lithuania", "STATUS": "National capital", "POP_RANK": 3, "POP_CLASS": "500,000 to 1,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 25.275966644287109, 54.688568115234375 ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "Berlin", "ADMIN_NAME": "Berlin", "CNTRY_NAME": "Germany", "STATUS": "National and provincial capital", "POP_RANK": 2, "POP_CLASS": "1,000,000 to 5,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 13.327572822570801, 52.516273498535156 ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "Dresden", "ADMIN_NAME": "Sachsen", "CNTRY_NAME": "Germany", "STATUS": "Provincial capital", "POP_RANK": 3, "POP_CLASS": "500,000 to 1,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 13.704999923706055, 51.046001434326172 ] } },
+{ "type": "Feature", "properties": { "CITY_NAME": "Prague", "ADMIN_NAME": "Stredocesky", "CNTRY_NAME": "Czech Republic", "STATUS": "National and provincial capital", "POP_RANK": 2, "POP_CLASS": "1,000,000 to 5,000,000", "PORT_ID": 0 }, "geometry": { "type": "Point", "coordinates": [ 14.456999778747559, 50.105998992919922 ] } }
+]
+}
