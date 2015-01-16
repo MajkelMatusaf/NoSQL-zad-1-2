@@ -111,9 +111,9 @@ przedstawiajace placowki w roznych miastach.
 ![](http://www.gaeromeddb.net/js/cities.geojson)
 
 Import
-```
+
 ![1dimport](1dimport.png)
-```
+
 
 Wyszukałem 5 najbliższych placowek od Warszawy. W tym celu,
 został wykorzystany poniższy skrypt.
